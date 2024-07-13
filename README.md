@@ -1,2 +1,2 @@
 # etlora
-从Oracle迁移数据到MySQL
+异构数据库etl工具
